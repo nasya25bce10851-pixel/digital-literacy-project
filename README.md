@@ -19,7 +19,7 @@ Each task folder in this repository contains the required files, screenshots, ac
 ## Task 1 – Digital Literacy Infographic
 In this task, I designed an infographic explaining the concept of **digital literacy** and its importance in today's digital world. The infographic highlights key topics such as safe internet practices, maintaining a professional online profile, and proper email etiquette.
 
-🔗 **Infographic Link:**  
+ **Infographic Link:**  
 [Digital Literacy Infographic](https://www.canva.com/design/DAHFP6UGLnE/CFhF02noYtjok9tE2YQWBg/view)
 
 The folder contains the infographic file created for this task.
@@ -43,6 +43,8 @@ Screenshots of the profiles along with a short reflection about creating a profe
 This task involved exploring digital platforms and completing small activities to understand how online tools support learning and collaboration.
 
 Screenshots of the activities, platform usage, and brief notes explaining the tasks performed are included in the folder as proof of completion.
+ **GOOGLE FORM LINK :**  
+[Google form link](https://docs.google.com/forms/d/e/1FAIpQLScYoayvXYz_wkvXRMfwe1UWrbq9lA7kuO3Fd61glxVXRt6zgw/viewform?usp=publish-editor)
 
 ---
 

@@ -1,0 +1,12 @@
+Cybercrime Prevention Checklist
+
+1.Use strong and unique passwords for all your online accounts.
+2.Enable two-factor authentication (2FA) whenever it is available.
+3.Avoid clicking on suspicious links or downloading unknown email attachments.
+4.Keep your devices, software, and antivirus programs updated regularly.
+5.Do not share personal or financial information on untrusted websites.
+6.Check if a website is secure (look for HTTPS) before entering sensitive information.
+7.Be careful when using public Wi-Fi for online transactions.
+8.Regularly back up important data to avoid losing it during cyber attacks.
+9.Monitor your accounts for any unusual or suspicious activity.
+10.Stay informed about common cyber threats such as phishing and online scams

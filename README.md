@@ -4,6 +4,7 @@
 ## Course Information
 **Course:** CSE0001 – Digital Literacy  
 **Student:** Nasya Thakur  
+**Restration no:** 25BCE10851
 
 ---
 
@@ -43,8 +44,7 @@ Screenshots of the profiles along with a short reflection about creating a profe
 This task involved exploring digital platforms and completing small activities to understand how online tools support learning and collaboration.
 
 Screenshots of the activities, platform usage, and brief notes explaining the tasks performed are included in the folder as proof of completion.
- **GOOGLE FORM LINK :**  
-[Google form link](https://docs.google.com/forms/d/e/1FAIpQLScYoayvXYz_wkvXRMfwe1UWrbq9lA7kuO3Fd61glxVXRt6zgw/viewform?usp=publish-editor)
+
 
 ---
 
@@ -76,5 +76,8 @@ Through this project, I learned:
 - Awareness of **cybersecurity risks and prevention methods**
 
 ---
+ **GOOGLE FORM LINK :**  
+[Google form link](https://docs.google.com/forms/d/e/1FAIpQLScYoayvXYz_wkvXRMfwe1UWrbq9lA7kuO3Fd61glxVXRt6zgw/viewform?usp=publish-editor)
 
+---
 
